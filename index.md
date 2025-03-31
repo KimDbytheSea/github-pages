@@ -1,4 +1,4 @@
-**Privacy Policy for GPT Test Case Logger**
+Title: **Privacy Policy for GPT Test Case Logger**
 
 Effective Date: 2025-03-30
 
