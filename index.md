@@ -1,6 +1,6 @@
 **Privacy Policy for GPT Test Case Logger**
 
-Effective Date: [Insert Date]
+Effective Date: 2025-03-30
 
 This privacy policy explains how the GPT Test Case Logger action uses and stores data you provide.
 
